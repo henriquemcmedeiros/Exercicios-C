@@ -1,2 +1,2 @@
-# Exercicios C
- Exercícios em C desenvolvidos na aula de algoritimos e em cursos complementares
+# Exercícios em C
+ Exercícios em C desenvolvidos na aula de algoritimos ou em cursos complementares
